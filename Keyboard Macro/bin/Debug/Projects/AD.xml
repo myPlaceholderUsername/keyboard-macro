@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <Action ActionType="Hold" Key="A" Duration="1" />
+    <Action ActionType="Hold" Key="D" Duration="1" />
+</Root>
