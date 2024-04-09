@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
-    <Action ActionType="Hold" Key="A" Duration="1" />
-    <Action ActionType="Hold" Key="D" Duration="1" />
+    <Process ProcessName="notepad" WindowName="*New Text Document.txt - Notepad" />
+    <Repeat RepeatType="Infinite" RepeatAmount="0" />
+    <Loop LoopInterval="0.01" />
+    <Actions>
+        <Action ActionType="Hold" Key="A" Duration="1" />
+        <Action ActionType="Hold" Key="D" Duration="1" />
+    </Actions>
 </Root>
