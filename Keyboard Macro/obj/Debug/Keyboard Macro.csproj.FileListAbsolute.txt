@@ -23,7 +23,6 @@ E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\bin\Debug\Windows
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\bin\Debug\HotkeyHook.NET_Framework.pdb
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\bin\Debug\WindowsInput.xml
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.csproj.AssemblyReference.cache
-E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.csproj.SuggestedBindingRedirects.cache
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard_Macro.Form_Action.resources
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard_Macro.Form_Main.resources
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard_Macro.Form_ReadKey.resources
@@ -31,6 +30,6 @@ E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboar
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard_Macro.Properties.Resources.resources
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.csproj.GenerateResource.cache
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.csproj.CoreCompileInputs.cache
-E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.csproj.CopyComplete
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.exe
 E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard Macro.pdb
+E:\Private Project\Visual Studio\Keyboard Macro\Keyboard Macro\obj\Debug\Keyboard.3BAB9836.Up2Date
